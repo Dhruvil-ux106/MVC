@@ -1,37 +1,42 @@
 [
   {
     "id": 1,
-    "name": "Rahul",
-    "email": "rahul@gmail.com",
-    "age": 25,
-    "city": "Mumbai"
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "price": 399,
+    "category": "Fiction",
+    "available": true
   },
   {
     "id": 2,
-    "name": "Priya",
-    "email": "priya@gmail.com",
-    "age": 28,
-    "city": "Pune"
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "price": 499,
+    "category": "Self Help",
+    "available": true
   },
   {
     "id": 3,
-    "name": "Amit",
-    "email": "amit@gmail.com",
-    "age": 30,
-    "city": "Delhi"
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "price": 699,
+    "category": "Programming",
+    "available": false
   },
   {
     "id": 4,
-    "name": "Sneha",
-    "email": "sneha@gmail.com",
-    "age": 24,
-    "city": "Bengaluru"
+    "title": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "price": 450,
+    "category": "Finance",
+    "available": true
   },
   {
     "id": 5,
-    "name": "Arjun",
-    "email": "arjun@gmail.com",
-    "age": 27,
-    "city": "Hyderabad"
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "price": 550,
+    "category": "Fantasy",
+    "available": true
   }
 ]
